@@ -1,0 +1,16 @@
+body {
+  padding-top: 50px;
+}
+.center-me {
+  padding: 40px 15px;
+  text-align: center;
+}
+.gallery
+{
+    display: inline-block;
+    margin-top: 20px;
+}
+.blur {
+    -webkit-filter: blur(4px)
+
+}
